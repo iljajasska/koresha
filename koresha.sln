@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "koresha.Android", "koresha\koresha.Android\koresha.Android.csproj", "{AF845221-0717-41A4-8198-DFCB32F285D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "koresha", "koresha\koresha\koresha.csproj", "{147DB287-3331-44A3-97F2-787314589AA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF845221-0717-41A4-8198-DFCB32F285D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF845221-0717-41A4-8198-DFCB32F285D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF845221-0717-41A4-8198-DFCB32F285D6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AF845221-0717-41A4-8198-DFCB32F285D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF845221-0717-41A4-8198-DFCB32F285D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF845221-0717-41A4-8198-DFCB32F285D6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{147DB287-3331-44A3-97F2-787314589AA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{147DB287-3331-44A3-97F2-787314589AA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{147DB287-3331-44A3-97F2-787314589AA9}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{147DB287-3331-44A3-97F2-787314589AA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{147DB287-3331-44A3-97F2-787314589AA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{147DB287-3331-44A3-97F2-787314589AA9}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {460248AA-DDDA-4FAD-A021-A4E5C4302101}
+	EndGlobalSection
+EndGlobal
